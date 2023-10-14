@@ -4,8 +4,8 @@ server:
 spring:
   datasource:
     url: jdbc:mysql://192.168.1.93:3306/banking_core_utility_payment_service
-    username: root
-    password: password
+    username: leo
+    password: mysqlleo
   jpa:
     hibernate:
       ddl-auto: update
